@@ -1,1 +1,2 @@
 # git-poprava
+Roman Kopychynskyi
